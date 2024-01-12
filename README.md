@@ -1,1 +1,1 @@
-# doing simple ml projects for fun sorted according to year
+# simple ml stuff on sklearn
