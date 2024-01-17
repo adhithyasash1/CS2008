@@ -1,1 +1,1 @@
-# simple ml stuff on sklearn
+# basic ml stuff
